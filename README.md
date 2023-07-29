@@ -13,12 +13,12 @@ This repository includes code and resources for analyzing time series data and p
 
 
 ## DATASET  
-<table><tr><td valign="top" width="100%">
+
 
 The project presents a comprehensive analysis of historical gold prices and the implementation of the ARIMA model to predict the future price of gold. The data utilized is obtained from reputable sources and includes various features such as date, opening price, high price, low price, closing price, change in pips, and percentage change.  
 
 
-</td>< 
+
 
 <br/>  
 
